@@ -5,9 +5,6 @@
 
 #Original file is located at: https://colab.research.google.com/drive/1o1-hrpvuUpRo4Ce3EOlgStC8wGQmDboP
 
-
-streamlit
-
 import os
 import pdfplumber
 import google.generativeai as genai
