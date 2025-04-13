@@ -283,5 +283,3 @@ if __name__ == "__main__":
 streamlit run rag_streamlit.py --server.port=8989 &>./logs.txt &
 
 from google.colab import userdata
-
-streamlit run rag_streamlit.py --server.port=8989 &>./logs.txt &
