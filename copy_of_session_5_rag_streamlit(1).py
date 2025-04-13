@@ -8,9 +8,9 @@ Original file is located at
 
 ##**Building a Retrieval Augmented Generation (RAG) Chatbot**
 
-Using Gemini, LangChain, and ChromaDB
+#Using Gemini, LangChain, and ChromaDB
 
-This notebook will guide you through implementing the backend components of a RAG chatbot system.
+#This notebook will guide you through implementing the backend components of a RAG chatbot system.
 
 ##Setup and Prerequisites
 
@@ -18,10 +18,11 @@ This notebook will guide you through implementing the backend components of a RA
 
 
 # Install required packages
+
 pip install langchain langchain-google-genai langchain_community pypdf chromadb sentence-transformers -q
 pip install google-generativeai pdfplumber -q
 
-"""Next, let's import all required libraries:"""
+#"""Next, let's import all required libraries:"""
 
 pip install streamlit
 
