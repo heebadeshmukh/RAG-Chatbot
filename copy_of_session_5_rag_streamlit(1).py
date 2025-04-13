@@ -6,10 +6,7 @@
 #Original file is located at: https://colab.research.google.com/drive/1o1-hrpvuUpRo4Ce3EOlgStC8wGQmDboP
 
 
-pip install langchain langchain-google-genai langchain_community pypdf chromadb sentence-transformers -q
-pip install google-generativeai pdfplumber -q
-
-pip install streamlit
+streamlit
 
 import os
 import pdfplumber
